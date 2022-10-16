@@ -1,0 +1,15 @@
+{
+    "name": "Avatar-Kid",
+    "description": "This NFT sets the age of the avatar",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZDmwnRJ76bjzexx4MRJ2K4SmnQhviBQ3GnXT1L1hAsRu",
+    "attributes": [
+        {
+            "trait-type": "PassAge",
+            "value": "Kid"
+        },
+        {
+            "trait-type": "PassedAge",
+            "value": "Adult"
+        }
+    ]
+}
