@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/access/Ownable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol";
 
-contract NFT is Ownable, ERC721("Example2", "EMP2"){
+contract NFT2 is Ownable, ERC721("Example2", "EMP2"){
 
     uint tokenId;
     mapping(address=>tokenMetaData[]) public ownershipRecord;
